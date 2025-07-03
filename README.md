@@ -6,8 +6,6 @@
   <br><br>
   <a href="mailto:contactme@fabriciofkt157.me"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://fabriciofkt157.me/"><img src="https://img.shields.io/badge/Portfolio-fabriciofkt157.me-blue?style=for-the-badge&logo=githubpages"></a>
-  <a href="https://behind.fabriciofkt157.me/"><img src="https://behind.fabriciofkt157.me/web/assets/icon.avif"></a>
-  <a href="https://gdevtools.fabriciofkt157.me/"><img src="https://gdevtools.fabriciofkt157.me/icon.avif"></a>
   <a href="https://github.com/Fabriciofkt157"><img src="https://img.shields.io/badge/GitHub-Fabriciofkt157-black?style=for-the-badge&logo=github"></a>
 </p>
 
