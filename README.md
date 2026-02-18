@@ -14,7 +14,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Tenho 18 anos e estudo **Ciência da Computação**  
-- 🛠️ Trabalho com **Java, C# (Unity), front-end (HTML, CSS, JS)**  
+- 🛠️ Trabalho com **Java, C# (Unity), front-end (HTML, CSS, JS) e Python (treinamento de IAs)**  
 - 📱 Desenvolvo apps Android (Java e Kotlin), jogos 2D e 3D e projetos web  
 - 🎨 Gosto de **design de interfaces**, UX, pixel art e identidade visual  
 - 🌌 Crio mundos e histórias em projetos autorais com narrativas profundas
